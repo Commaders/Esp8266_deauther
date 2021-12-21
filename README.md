@@ -22,7 +22,7 @@ It is command line based, which allows it to offer not just more features, but m
 | Deauth attack | ✅ | ✅ |
 | Beacon attack | ✅ | ✅ |
 | Probe attack | ✅ | ✅ |
-| [Huhnitor](https://github.com/Commaders/huhnitor) support | | ✅ |
+| [Huhnitor](https://github.com/SpacehuhnTech/huhnitor) support | | ✅ |
 | Signal strength scanner | | ✅ |
 | Authentication scanner | | ✅ |
 | Rogue AP | | ✅ |
