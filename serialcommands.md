@@ -320,7 +320,7 @@ Starts access point.
 - **channel** [-ch] (optional, default = [settings channel](https://github.com/Commaders/Esp8266_deauther/blob/master/settings.md#channel)): Channel .  
 - **hidden** [-h] (optional, default = [settings hidden](https://github.com/Commaders/Esp8266_deauther/blob/master/settings.md#hidden)): Hide SSID.  
 - **captiveportal** [-cp] (optional, default = [settings captiveportal]
-(https://github.com/Commaders/Esp8266_deauther/blob/main/settings.mdCaptiveportal)): Enable captiveportal.  
+https://github.com/Commaders/Esp8266_deauther/blob/main/settings.md#captiveportal)): Enable captiveportal.  
 
 `stopap`  
 Stops access point.  
